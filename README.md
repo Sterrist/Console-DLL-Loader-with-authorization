@@ -1,5 +1,5 @@
 # ConsoleDllLoader
-Необходимости: Pymem 1.8.5 requests 2.31.0 
+Необходимости: Pymem 1.8.5 requests
 
 Настройка
 
